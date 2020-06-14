@@ -1,0 +1,3 @@
+rootProject.name='AppSurvey'
+include ':app'
+include ':survey'

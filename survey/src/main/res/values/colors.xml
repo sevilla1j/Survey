@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF5722</color>
+    <color name="on_primary">#FF8A65</color>
+    <color name="secondary">#E64A19</color>
+    <color name="on_secondary">#D84315</color>
+    <color name="ripple_gray">#669900</color>
+    <color name="text_primary">#000000</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="edge_efect">#FF9800</color>
+
+    <color name="black">#000000</color>
+</resources>

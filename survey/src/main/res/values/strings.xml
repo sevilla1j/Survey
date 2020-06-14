@@ -1,0 +1,9 @@
+<resources>
+    <string name="fragment_siguiente">Siguiente</string>
+    <string name="image">image</string>
+    <string name="fragment_text_finish">Terminarmos</string>
+    <string name="fragment_text_error">¡Oh no! Al parecer los datos estan Incorrecto.</string>
+    <string name="text_aqui">Ingresa tu respuesta aqui</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
